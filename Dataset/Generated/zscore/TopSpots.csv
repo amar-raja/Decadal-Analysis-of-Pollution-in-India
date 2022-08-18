@@ -1,0 +1,21 @@
+Year,spot,State1,State2,State3,State4,State5
+2011,hot,Delhi,Jharkhand,Tamil Nadu,Maharashtra,Rajasthan
+2011,cold,Himachal Pradesh,Kerala,Dadra & Nagar Haveli,Chandigarh,Arunachal Pradesh
+2012,hot,Delhi,Jharkhand,Tamil Nadu,Maharashtra,Punjab
+2012,cold,Himachal Pradesh,Kerala,Dadra & Nagar Haveli,Arunachal Pradesh,Chandigarh
+2013,hot,Delhi,Rajasthan,Tamil Nadu,West Bengal,Maharashtra
+2013,cold,Bihar,Arunachal Pradesh,Himachal Pradesh,Chandigarh,Kerala
+2014,hot,Nagaland,Maharashtra,Rajasthan,Delhi,Jharkhand
+2014,cold,Odisha,Himachal Pradesh,Arunachal Pradesh,Kerala,Chandigarh
+2015,hot,Maharashtra,Jharkhand,Uttar Pradesh,Jammu & Kashmir,Rajasthan
+2015,cold,Goa,Himachal Pradesh,Chandigarh,Kerala,Arunachal Pradesh
+2016,hot,Uttar Pradesh,Maharashtra,Jammu & Kashmir,Jharkhand,Assam
+2016,cold,Madhya Pradesh,Himachal Pradesh,Chandigarh,Arunachal Pradesh,Kerala
+2017,hot,Jammu & Kashmir,Uttar Pradesh,Maharashtra,Assam,Jharkhand
+2017,cold,Telangana,Himachal Pradesh,Chandigarh,Arunachal Pradesh,Kerala
+2018,hot,Jammu & Kashmir,Uttar Pradesh,Assam,Maharashtra,Jharkhand
+2018,cold,Goa,Telangana,Arunachal Pradesh,Chandigarh,Kerala
+2019,hot,Jammu & Kashmir,Uttar Pradesh,Assam,Maharashtra,Jharkhand
+2019,cold,Arunachal Pradesh,Goa,Telangana,Chandigarh,Kerala
+2020,hot,Jammu & Kashmir,Uttar Pradesh,Assam,Maharashtra,Jharkhand
+2020,cold,Arunachal Pradesh,Goa,Chandigarh,Telangana,Kerala

@@ -1,0 +1,20 @@
+Cluster: 0
+The Members: Assam | Jammu & Kashmir | Nagaland | Uttar Pradesh
+Total Members: 4
+
+Cluster: 1
+The Members: Arunachal Pradesh | Bihar | Dadra & Nagar Haveli | Daman & Diu | Delhi | Gujarat | Jharkhand | Madhya Pradesh | Uttarakhand
+Total Members: 9
+
+Cluster: 2
+The Members: Goa | Himachal Pradesh | Kerala | Meghalaya | Mizoram | Puducherry
+Total Members: 6
+
+Cluster: 3
+The Members: Andhra Pradesh | Chandigarh | Chhattisgarh | Karnataka | Maharashtra | Odisha | Punjab | Rajasthan | Tamil Nadu | Telangana | West Bengal
+Total Members: 11
+
+Cluster: 4
+The Members: Haryana
+Total Members: 1
+

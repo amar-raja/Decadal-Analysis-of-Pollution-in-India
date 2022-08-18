@@ -1,0 +1,20 @@
+Cluster: 0
+The Members: Visakhapatnam | Bengaluru | Bhopal | Mumbai | Jaipur | Coimbatore | Hyderabad | Kolkata
+Total Members: 8
+
+Cluster: 1
+The Members: Patna | Delhi | Lucknow
+Total Members: 3
+
+Cluster: 2
+The Members: Chandigarh | Kochi | Thiruvananthapuram | Shillong | Aizawl | Amritsar | Chennai
+Total Members: 7
+
+Cluster: 3
+The Members: Ahmedabad
+Total Members: 1
+
+Cluster: 4
+The Members: Guwahati | Talcher
+Total Members: 2
+

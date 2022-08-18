@@ -1,0 +1,351 @@
+State,year,Number
+Andaman  Nicobar Islands,2011,69
+Andaman  Nicobar Islands,2012,77
+Andaman  Nicobar Islands,2013,85
+Andaman  Nicobar Islands,2014,94
+Andaman  Nicobar Islands,2015,102
+Andaman  Nicobar Islands,2016,111
+Andaman  Nicobar Islands,2017,120.0
+Andaman  Nicobar Islands,2018,129.0
+Andaman  Nicobar Islands,2019,138.0
+Andaman  Nicobar Islands,2020,147.0
+Andhra Pradesh,2011,10189
+Andhra Pradesh,2012,12424
+Andhra Pradesh,2013,6286
+Andhra Pradesh,2014,7002
+Andhra Pradesh,2015,7882
+Andhra Pradesh,2016,8728
+Andhra Pradesh,2017,9574.0
+Andhra Pradesh,2018,10420.0
+Andhra Pradesh,2019,11266.0
+Andhra Pradesh,2020,12112.0
+Arunachal Pradesh,2011,145
+Arunachal Pradesh,2012,151
+Arunachal Pradesh,2013,151
+Arunachal Pradesh,2014,151
+Arunachal Pradesh,2015,151
+Arunachal Pradesh,2016,265
+Arunachal Pradesh,2017,379.0
+Arunachal Pradesh,2018,493.0
+Arunachal Pradesh,2019,607.0
+Arunachal Pradesh,2020,721.0
+Assam,2011,1582
+Assam,2012,1807
+Assam,2013,1878
+Assam,2014,2217
+Assam,2015,2510
+Assam,2016,2817
+Assam,2017,3124.0
+Assam,2018,3431.0
+Assam,2019,3738.0
+Assam,2020,4045.0
+Bihar,2011,2673
+Bihar,2012,3113
+Bihar,2013,3617
+Bihar,2014,4163
+Bihar,2015,4778
+Bihar,2016,5482
+Bihar,2017,6186.0
+Bihar,2018,6890.0
+Bihar,2019,7594.0
+Bihar,2020,8298.0
+Chandigarh,2011,1008
+Chandigarh,2012,1058
+Chandigarh,2013,1106
+Chandigarh,2014,631
+Chandigarh,2015,676
+Chandigarh,2016,837
+Chandigarh,2017,998.0
+Chandigarh,2018,1159.0
+Chandigarh,2019,1320.0
+Chandigarh,2020,1481.0
+Chhattisgarh,2011,2766
+Chhattisgarh,2012,3104
+Chhattisgarh,2013,3437
+Chhattisgarh,2014,3871
+Chhattisgarh,2015,4314
+Chhattisgarh,2016,4810
+Chhattisgarh,2017,5306.0
+Chhattisgarh,2018,5802.0
+Chhattisgarh,2019,6298.0
+Chhattisgarh,2020,6794.0
+Dadra  Nagar Haveli,2011,76
+Dadra  Nagar Haveli,2012,85
+Dadra  Nagar Haveli,2013,93
+Dadra  Nagar Haveli,2014,103
+Dadra  Nagar Haveli,2015,112
+Dadra  Nagar Haveli,2016,105
+Dadra  Nagar Haveli,2017,98.0
+Dadra  Nagar Haveli,2018,91.0
+Dadra  Nagar Haveli,2019,84.0
+Dadra  Nagar Haveli,2020,77.0
+Daman  Diu,2011,78
+Daman  Diu,2012,85
+Daman  Diu,2013,92
+Daman  Diu,2014,95
+Daman  Diu,2015,100
+Daman  Diu,2016,106
+Daman  Diu,2017,112.0
+Daman  Diu,2018,118.0
+Daman  Diu,2019,124.0
+Daman  Diu,2020,130.0
+Delhi,2011,7228
+Delhi,2012,7350
+Delhi,2013,7785
+Delhi,2014,8293
+Delhi,2015,8851
+Delhi,2016,9705
+Delhi,2017,10559.0
+Delhi,2018,11413.0
+Delhi,2019,12267.0
+Delhi,2020,13121.0
+Goa,2011,790
+Goa,2012,866
+Goa,2013,938
+Goa,2014,1009
+Goa,2015,1084
+Goa,2016,1158
+Goa,2017,1232.0
+Goa,2018,1306.0
+Goa,2019,1380.0
+Goa,2020,1454.0
+Gujarat,2011,12993
+Gujarat,2012,14414
+Gujarat,2013,15772
+Gujarat,2014,17092
+Gujarat,2015,18721
+Gujarat,2016,20361
+Gujarat,2017,22001.0
+Gujarat,2018,23641.0
+Gujarat,2019,25281.0
+Gujarat,2020,26921.0
+Haryana,2011,5377
+Haryana,2012,5978
+Haryana,2013,6600
+Haryana,2014,7239
+Haryana,2015,7928
+Haryana,2016,8633
+Haryana,2017,9338.0
+Haryana,2018,10043.0
+Haryana,2019,10748.0
+Haryana,2020,11453.0
+Himachal Pradesh,2011,622
+Himachal Pradesh,2012,737
+Himachal Pradesh,2013,876
+Himachal Pradesh,2014,974
+Himachal Pradesh,2015,1077
+Himachal Pradesh,2016,1176
+Himachal Pradesh,2017,1275.0
+Himachal Pradesh,2018,1374.0
+Himachal Pradesh,2019,1473.0
+Himachal Pradesh,2020,1572.0
+Jammu  Kashmir,2011,927
+Jammu  Kashmir,2012,917
+Jammu  Kashmir,2013,1021
+Jammu  Kashmir,2014,1133
+Jammu  Kashmir,2015,1244
+Jammu  Kashmir,2016,1366
+Jammu  Kashmir,2017,1488.0
+Jammu  Kashmir,2018,1610.0
+Jammu  Kashmir,2019,1732.0
+Jammu  Kashmir,2020,1854.0
+Jharkhand,2011,3113
+Jharkhand,2012,3158
+Jharkhand,2013,3417
+Jharkhand,2014,1719
+Jharkhand,2015,2066
+Jharkhand,2016,2477
+Jharkhand,2017,2888.0
+Jharkhand,2018,3299.0
+Jharkhand,2019,3710.0
+Jharkhand,2020,4121.0
+Karnataka,2011,9930
+Karnataka,2012,10910
+Karnataka,2013,12064
+Karnataka,2014,13335
+Karnataka,2015,14785
+Karnataka,2016,16292
+Karnataka,2017,17799.0
+Karnataka,2018,19306.0
+Karnataka,2019,20813.0
+Karnataka,2020,22320.0
+Kerala,2011,6072
+Kerala,2012,6893
+Kerala,2013,7858
+Kerala,2014,8775
+Kerala,2015,9648
+Kerala,2016,10172
+Kerala,2017,10696.0
+Kerala,2018,11220.0
+Kerala,2019,11744.0
+Kerala,2020,12268.0
+Lakshadweep,2011,9
+Lakshadweep,2012,10
+Lakshadweep,2013,11
+Lakshadweep,2014,13
+Lakshadweep,2015,14
+Lakshadweep,2016,16
+Lakshadweep,2017,18.0
+Lakshadweep,2018,20.0
+Lakshadweep,2019,22.0
+Lakshadweep,2020,24.0
+Madhya Pradesh,2011,7356
+Madhya Pradesh,2012,8144
+Madhya Pradesh,2013,8760
+Madhya Pradesh,2014,9722
+Madhya Pradesh,2015,11141
+Madhya Pradesh,2016,11141
+Madhya Pradesh,2017,11141.0
+Madhya Pradesh,2018,11141.0
+Madhya Pradesh,2019,11141.0
+Madhya Pradesh,2020,11141.0
+Maharashtra,2011,17434
+Maharashtra,2012,19432
+Maharashtra,2013,21488
+Maharashtra,2014,23394
+Maharashtra,2015,25562
+Maharashtra,2016,27870
+Maharashtra,2017,30178.0
+Maharashtra,2018,32486.0
+Maharashtra,2019,34794.0
+Maharashtra,2020,37102.0
+Manipur,2011,207
+Manipur,2012,215
+Manipur,2013,296
+Manipur,2014,395
+Manipur,2015,307
+Manipur,2016,306
+Manipur,2017,305.0
+Manipur,2018,304.0
+Manipur,2019,303.0
+Manipur,2020,302.0
+Meghalaya,2011,176
+Meghalaya,2012,198
+Meghalaya,2013,220
+Meghalaya,2014,248
+Meghalaya,2015,267
+Meghalaya,2016,558
+Meghalaya,2017,849.0
+Meghalaya,2018,1140.0
+Meghalaya,2019,1431.0
+Meghalaya,2020,1722.0
+Mizoram,2011,93
+Mizoram,2012,102
+Mizoram,2013,121
+Mizoram,2014,137
+Mizoram,2015,151
+Mizoram,2016,171
+Mizoram,2017,191.0
+Mizoram,2018,211.0
+Mizoram,2019,231.0
+Mizoram,2020,251.0
+Nagaland,2011,273
+Nagaland,2012,291
+Nagaland,2013,311
+Nagaland,2014,318
+Nagaland,2015,334
+Nagaland,2016,380
+Nagaland,2017,426.0
+Nagaland,2018,472.0
+Nagaland,2019,518.0
+Nagaland,2020,564.0
+Odisha,2011,3338
+Odisha,2012,3759
+Odisha,2013,4216
+Odisha,2014,4702
+Odisha,2015,5219
+Odisha,2016,5833
+Odisha,2017,6447.0
+Odisha,2018,7061.0
+Odisha,2019,7675.0
+Odisha,2020,8289.0
+Puducherry,2011,673
+Puducherry,2012,755
+Puducherry,2013,700
+Puducherry,2014,751
+Puducherry,2015,803
+Puducherry,2016,863
+Puducherry,2017,923.0
+Puducherry,2018,983.0
+Puducherry,2019,1043.0
+Puducherry,2020,1103.0
+Punjab,2011,5274
+Punjab,2012,6263
+Punjab,2013,6263
+Punjab,2014,6263
+Punjab,2015,6263
+Punjab,2016,9064
+Punjab,2017,11865.0
+Punjab,2018,14666.0
+Punjab,2019,17467.0
+Punjab,2020,20268.0
+Rajasthan,2011,7986
+Rajasthan,2012,8985
+Rajasthan,2013,10072
+Rajasthan,2014,11133
+Rajasthan,2015,12379
+Rajasthan,2016,13632
+Rajasthan,2017,14885.0
+Rajasthan,2018,16138.0
+Rajasthan,2019,17391.0
+Rajasthan,2020,18644.0
+Sikkim,2011,39
+Sikkim,2012,43
+Sikkim,2013,36
+Sikkim,2014,40
+Sikkim,2015,43
+Sikkim,2016,49
+Sikkim,2017,55.0
+Sikkim,2018,61.0
+Sikkim,2019,67.0
+Sikkim,2020,73.0
+Tamil Nadu,2011,15638
+Tamil Nadu,2012,17412
+Tamil Nadu,2013,19232
+Tamil Nadu,2014,20864
+Tamil Nadu,2015,22519
+Tamil Nadu,2016,24203
+Tamil Nadu,2017,25887.0
+Tamil Nadu,2018,27571.0
+Tamil Nadu,2019,29255.0
+Tamil Nadu,2020,30939.0
+Tripura,2011,188
+Tripura,2012,204
+Tripura,2013,245
+Tripura,2014,256
+Tripura,2015,282
+Tripura,2016,319
+Tripura,2017,356.0
+Tripura,2018,393.0
+Tripura,2019,430.0
+Tripura,2020,467.0
+Uttar Pradesh,2011,13287
+Uttar Pradesh,2012,15445
+Uttar Pradesh,2013,17048
+Uttar Pradesh,2014,19115
+Uttar Pradesh,2015,21636
+Uttar Pradesh,2016,23936
+Uttar Pradesh,2017,26236.0
+Uttar Pradesh,2018,28536.0
+Uttar Pradesh,2019,30836.0
+Uttar Pradesh,2020,33136.0
+Uttarakhand,2011,997
+Uttarakhand,2012,1244
+Uttarakhand,2013,1460
+Uttarakhand,2014,1640
+Uttarakhand,2015,1827
+Uttarakhand,2016,1888
+Uttarakhand,2017,1949.0
+Uttarakhand,2018,2010.0
+Uttarakhand,2019,2071.0
+Uttarakhand,2020,2132.0
+West Bengal,2011,3261
+West Bengal,2012,3861
+West Bengal,2013,6111
+West Bengal,2014,6745
+West Bengal,2015,7403
+West Bengal,2016,6488
+West Bengal,2017,5573.0
+West Bengal,2018,4658.0
+West Bengal,2019,3743.0
+West Bengal,2020,2828.0
